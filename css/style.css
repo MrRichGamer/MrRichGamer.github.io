@@ -1,4 +1,4 @@
-body{margin:0}
+body{margin:0;background-color:yellow}
 .div{margin-left:270px;margin-right:270px;background-color:yellow;align-content: center;height:754px;}
 .div1{background-color:black;width:100%;color:white;font-family: 'Times New Roman', Times, serif;text-align: center;margin-bottom: 0;}
 .light{color: black;width: 320px;float: left;text-align: center;}
@@ -14,5 +14,8 @@ body{margin:0}
 .sp{margin-left:100px;margin-right:100px;}
 .img2{margin-left:125px;width: 100px;}
 .text2{text-align:center;font-family: fantasy;color:black;font-size:25px;}
-.img1{margin-left:80px;width: 175px;}
+.img1{margin-left:80px;width: 175px;margin-bottom:0;}
 .image{width:50px}
+.ex{text-align: center;font-family: 'Times New Roman', Times, serif;}
+h2{font-family: fantasy;text-align: center;}
+.about{text-align: center;color: black;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;margin-top:50%;}
